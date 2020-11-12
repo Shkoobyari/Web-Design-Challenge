@@ -1,0 +1,59 @@
+/* Comparison */
+
+.latitude-brand {
+  font-size: 31px;
+  background-color: #008b8b;
+  color: white !important;
+}
+
+.latitude-font {
+  font-family: "Merriweather", serif;
+}
+
+.page-header {
+  font-size: 26px;
+  color: #008b8b;
+  margin-top: 32px;
+}
+
+.header-divider {
+  margin-top: 32px;
+}
+
+.text-margin {
+  margin-top: 32px;
+}
+
+.comparison-box-header {
+  font-size: 24px;
+  color: #008b8b;
+  text-align: center;
+}
+
+.comparison-graph {
+  width: 100%;
+}
+
+/* landing page */
+
+.landing-text {
+  font-size: 16px;
+  font-family: "Merriweather", serif;
+}
+
+.landing-graph {
+  width: 50%;
+  float: left;
+}
+
+@media (max-width: 577px) {
+  .landing-graph {
+    width: 25%;
+  }
+}
+
+.visualization-text {
+  font-size: 16px;
+  font-family: "Merriweather", serif;
+  margin-top: 32px;
+}
